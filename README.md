@@ -1,6 +1,6 @@
 # Lively Wallpaper early release
-[![GitHub release](https://img.shields.io/github/release/rocksdanister/lively-beta/all.svg)](https://github.com/rocksdanister/lively/releases)
-[![Github all releases](https://img.shields.io/github/downloads/rocksdanister/lively-beta/total.svg)](https://github.com/rocksdanister/lively/releases)
+[![GitHub release](https://img.shields.io/github/release/rocksdanister/lively-beta/all.svg)](https://github.com/rocksdanister/lively-beta/releases)
+[![Github all releases](https://img.shields.io/github/downloads/rocksdanister/lively-beta/total.svg)](https://github.com/rocksdanister/lively-beta/releases)
 
 This repository contains early/beta releases of Lively Wallpaper. 
 
