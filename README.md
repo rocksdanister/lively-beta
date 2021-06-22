@@ -14,6 +14,6 @@ To switch back to regular channel run the installer from the [main](https://gith
 This does not apply to Windows Store version of Lively.
 
 ## How to report a bug
-Reports problems directly to the main repository:
+Reports problem directly to the main repository:
 
 https://github.com/rocksdanister/lively
