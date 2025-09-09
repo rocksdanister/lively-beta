@@ -7,9 +7,6 @@ This repository contains early/beta releases of Lively Wallpaper.
 Updates will be very frequent and sometimes buggy.
 
 ## How to switch to beta channel
-Lively settings -> Misc -> Switch to beta (dev channel)
-
-or
 
 Download the latest [release](https://github.com/rocksdanister/lively-beta/releases) from this repository and run the installer (no need to uninstall your existing regular Lively if present.)
 
