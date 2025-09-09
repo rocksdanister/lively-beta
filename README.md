@@ -10,7 +10,7 @@ Updates will be very frequent and sometimes buggy.
 
 Download the latest [release](https://github.com/rocksdanister/lively-beta/releases) from this repository and run the installer (no need to uninstall your existing regular Lively if present.)
 
-To switch back to regular channel repeat the same steps above or run the installer from the [main](https://github.com/rocksdanister/lively/releases) repository; in the event of any problem delete all the folders except `Library` from Lively data folder: 
+To switch back to regular release run the installer from the [main](https://github.com/rocksdanister/lively/releases) repository; in the event of any problem delete all the folders except `Library` from Lively data folder: 
 
 `C:\Users\<UserName>\AppData\Local\Lively Wallpaper`
 
